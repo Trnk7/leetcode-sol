@@ -44,4 +44,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Trnk7/leetcode-sol/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Trnk7/leetcode-sol/tree/master/0164-maximum-gap) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Trnk7/leetcode-sol/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Trnk7/leetcode-sol/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Trnk7/leetcode-sol/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->

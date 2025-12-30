@@ -23,14 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Trnk7/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Trnk7/leetcode-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Trnk7/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Trnk7/leetcode-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Trnk7/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [2396-strictly-palindromic-number](https://github.com/Trnk7/leetcode-sol/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |

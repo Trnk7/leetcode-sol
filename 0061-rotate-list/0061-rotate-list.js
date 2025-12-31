@@ -15,7 +15,13 @@ var rotateRight = function(head, k) {
 
     let fast = head;
     let slow = head;
-    for (let i = 0; i <k; i++) {
+    let l=1;
+    while (fast.next !== null) {
+        fast = fast.next;
+        l++;
+    }
+    fast=head;
+    for (let i = 0; i <k%l; i++) {
         
         fast = fast.next;
         if(fast==null){

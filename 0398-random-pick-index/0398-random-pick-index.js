@@ -2,13 +2,13 @@
  * @param {number[]} nums
  */
 var Solution = function(nums) {
-    this.frq={};
+    this.frq=new Map();
     for(let i=0;i<nums.length;i++){
         let n = nums[i]
-        if(this.frq[n]){
-            this.frq[n].push(i)
+        if(this.frq.has(n)){
+            this.frq.get(n).push(i)
         }else{
-            this.frq[n]=[i]
+            this.frq.set(n,[i])
         }
     }
 };
@@ -18,8 +18,8 @@ var Solution = function(nums) {
  * @return {number}
  */
 Solution.prototype.pick = function(target) {
-    let rnd = Math.floor(this.frq[target].length*Math.random())
-    return this.frq[target][rnd];
+    let rnd = Math.floor(this.frq.get(target).length*Math.random())
+    return this.frq.get(target)[rnd];
 };
 
 /** 

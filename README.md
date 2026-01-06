@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Trnk7/leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Trnk7/leetcode-sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Trnk7/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Trnk7/leetcode-sol/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Trnk7/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Trnk7/leetcode-sol/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Trnk7/leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Trnk7/leetcode-sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Trnk7/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Trnk7/leetcode-sol/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Trnk7/leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Trnk7/leetcode-sol/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Trnk7/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
 | ------- |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Trnk7/leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Trnk7/leetcode-sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Trnk7/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Trnk7/leetcode-sol/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Reservoir Sampling

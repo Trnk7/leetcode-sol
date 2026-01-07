@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Trnk7/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0384-shuffle-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/Trnk7/leetcode-sol/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/Trnk7/leetcode-sol/tree/master/0470-implement-rand10-using-rand7) |
 | [2396-strictly-palindromic-number](https://github.com/Trnk7/leetcode-sol/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/Trnk7/leetcode-sol/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/Trnk7/leetcode-sol/tree/master/0470-implement-rand10-using-rand7) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Trnk7/leetcode-sol/tree/master/0398-random-pick-index) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Trnk7/leetcode-sol/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Trnk7/leetcode-sol/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->

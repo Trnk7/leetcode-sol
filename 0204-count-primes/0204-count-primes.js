@@ -3,7 +3,7 @@
  * @return {number}
  */
 var countPrimes = function(n) {
-    let list = new Array(n).fill(1);
+    let list = new Uint8Array(n).fill(1);
     let i=2;
     while(i*i<n){
         if(!list[i]){

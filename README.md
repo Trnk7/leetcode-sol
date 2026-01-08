@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Trnk7/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/Trnk7/leetcode-sol/tree/master/0470-implement-rand10-using-rand7) |
 | [2396-strictly-palindromic-number](https://github.com/Trnk7/leetcode-sol/tree/master/2396-strictly-palindromic-number) |
+| [2427-number-of-common-factors](https://github.com/Trnk7/leetcode-sol/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Trnk7/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Trnk7/leetcode-sol/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Trnk7/leetcode-sol/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->

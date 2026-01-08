@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Trnk7/leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Trnk7/leetcode-sol/tree/master/0012-integer-to-roman) |
+| [0204-count-primes](https://github.com/Trnk7/leetcode-sol/tree/master/0204-count-primes) |
 | [0384-shuffle-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/Trnk7/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/Trnk7/leetcode-sol/tree/master/0470-implement-rand10-using-rand7) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trnk7/leetcode-sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Trnk7/leetcode-sol/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Trnk7/leetcode-sol/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/Trnk7/leetcode-sol/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/Trnk7/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Trnk7/leetcode-sol/tree/master/0414-third-maximum-number) |
@@ -179,9 +181,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Trnk7/leetcode-sol/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Trnk7/leetcode-sol/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Trnk7/leetcode-sol/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Trnk7/leetcode-sol/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->

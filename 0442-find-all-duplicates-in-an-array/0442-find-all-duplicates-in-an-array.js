@@ -5,10 +5,10 @@
 var findDuplicates = function(nums) {
     
     let ans=[];
-    for(let i=0;i<nums.length;i++){
-        let ind = Math.abs(nums[i])-1;
+    for(const n of nums){
+        let ind = Math.abs(n)-1;
         if(nums[ind]<0){
-            ans.push(Math.abs(nums[i]));
+            ans.push(Math.abs(n));
         }else{
             nums[ind]=-nums[ind];
         }

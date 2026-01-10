@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/Trnk7/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/Trnk7/leetcode-sol/tree/master/0470-implement-rand10-using-rand7) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Trnk7/leetcode-sol/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/Trnk7/leetcode-sol/tree/master/2427-number-of-common-factors) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Trnk7/leetcode-sol/tree/master/3783-mirror-distance-of-an-integer) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Trnk7/leetcode-sol/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Trnk7/leetcode-sol/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Trnk7/leetcode-sol/tree/master/3285-find-indices-of-stable-mountains) |
 ## Sorting
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Trnk7/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
 | [1603-design-parking-system](https://github.com/Trnk7/leetcode-sol/tree/master/1603-design-parking-system) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 ## Design
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Trnk7/leetcode-sol/tree/master/0338-counting-bits) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->

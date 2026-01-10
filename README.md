@@ -129,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Trnk7/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
+| [1603-design-parking-system](https://github.com/Trnk7/leetcode-sol/tree/master/1603-design-parking-system) |
 ## Design
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0384-shuffle-an-array) |
+| [1603-design-parking-system](https://github.com/Trnk7/leetcode-sol/tree/master/1603-design-parking-system) |
 ## Randomized
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Trnk7/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Trnk7/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
+| [1603-design-parking-system](https://github.com/Trnk7/leetcode-sol/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |

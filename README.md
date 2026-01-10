@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Trnk7/leetcode-sol/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Trnk7/leetcode-sol/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Trnk7/leetcode-sol/tree/master/3285-find-indices-of-stable-mountains) |
 ## Sorting
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Trnk7/leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Trnk7/leetcode-sol/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Trnk7/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -126,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Trnk7/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
+| [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Trnk7/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
 | [1603-design-parking-system](https://github.com/Trnk7/leetcode-sol/tree/master/1603-design-parking-system) |
+| [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 ## Design
 |  |
 | ------- |

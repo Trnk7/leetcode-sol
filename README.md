@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Trnk7/leetcode-sol/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/Trnk7/leetcode-sol/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Trnk7/leetcode-sol/tree/master/0389-find-the-difference) |
 ## Breadth-First Search

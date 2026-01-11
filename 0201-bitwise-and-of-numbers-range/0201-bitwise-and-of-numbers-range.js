@@ -4,6 +4,8 @@
  * @return {number}
  */
 var rangeBitwiseAnd = function(left, right) {
+    if(left==right)return left;
+    if(left&right==left)return 0;
     let c=0;
     while(left!=right){
         c++

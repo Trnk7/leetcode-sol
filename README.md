@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Trnk7/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Trnk7/leetcode-sol/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Trnk7/leetcode-sol/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Trnk7/leetcode-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Trnk7/leetcode-sol/tree/master/1266-minimum-time-visiting-all-points) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Trnk7/leetcode-sol/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Trnk7/leetcode-sol/tree/master/3285-find-indices-of-stable-mountains) |
 ## Sorting
 |  |

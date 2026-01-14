@@ -3,17 +3,19 @@
  * @return {number[][]}
  */
 var findMatrix = function(nums) {
-    let dict={};
+    let dict=new Map();
     nums.forEach((n)=>{
-        dict[n]=dict[n]+1||1;
+        if(dict.has(n)){
+            dict.set(n,dict.get(n)+1)
+        }else dict.set(n,1)
     })
     let mat=[]
-    for(let k in dict){
-        for(let i=0;i<dict[k];i++){
+    for(const [k,v] of dict){
+        for(let i=0;i<v;i++){
             if(mat[i]){
-                mat[i].push(parseInt(k))
+                mat[i].push(k)
             }else{
-                mat.push([parseInt(k)])
+                mat.push([k])
             }
         }
     }

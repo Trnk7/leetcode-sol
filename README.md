@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Trnk7/leetcode-sol/tree/master/0695-max-area-of-island) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Trnk7/leetcode-sol/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Trnk7/leetcode-sol/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Trnk7/leetcode-sol/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Trnk7/leetcode-sol/tree/master/3285-find-indices-of-stable-mountains) |
 | [3379-transformed-array](https://github.com/Trnk7/leetcode-sol/tree/master/3379-transformed-array) |
 ## Sorting
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Trnk7/leetcode-sol/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Trnk7/leetcode-sol/tree/master/0695-max-area-of-island) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Trnk7/leetcode-sol/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Trnk7/leetcode-sol/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Trnk7/leetcode-sol/tree/master/0695-max-area-of-island) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Trnk7/leetcode-sol/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -257,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Trnk7/leetcode-sol/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Trnk7/leetcode-sol/tree/master/0695-max-area-of-island) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Trnk7/leetcode-sol/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->

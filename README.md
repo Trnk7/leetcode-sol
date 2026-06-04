@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Trnk7/leetcode-sol/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Trnk7/leetcode-sol/tree/master/0061-rotate-list) |
 | [2396-strictly-palindromic-number](https://github.com/Trnk7/leetcode-sol/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Trnk7/leetcode-sol/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Trnk7/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Trnk7/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0059-spiral-matrix-ii) |

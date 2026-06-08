@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Trnk7/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Trnk7/leetcode-sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Trnk7/leetcode-sol/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Trnk7/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Trnk7/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Trnk7/leetcode-sol/tree/master/0398-random-pick-index) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Trnk7/leetcode-sol/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Trnk7/leetcode-sol/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Trnk7/leetcode-sol/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Trnk7/leetcode-sol/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Trnk7/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Trnk7/leetcode-sol/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |

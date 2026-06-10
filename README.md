@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Trnk7/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Trnk7/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Trnk7/leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Trnk7/leetcode-sol/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Trnk7/leetcode-sol/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Trnk7/leetcode-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Trnk7/leetcode-sol/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/Trnk7/leetcode-sol/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Trnk7/leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/Trnk7/leetcode-sol/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Trnk7/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Trnk7/leetcode-sol/tree/master/0875-koko-eating-bananas) |
@@ -265,11 +267,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Trnk7/leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Trnk7/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Trnk7/leetcode-sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Trnk7/leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Trnk7/leetcode-sol/tree/master/0739-daily-temperatures) |
 ## Union-Find
 |  |

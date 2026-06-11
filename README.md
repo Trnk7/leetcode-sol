@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Trnk7/leetcode-sol/tree/master/0162-find-peak-element) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0538-convert-bst-to-greater-tree) |
 | [0875-koko-eating-bananas](https://github.com/Trnk7/leetcode-sol/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Trnk7/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Trnk7/leetcode-sol/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Trnk7/leetcode-sol/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Trnk7/leetcode-sol/tree/master/1266-minimum-time-visiting-all-points) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
@@ -281,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Trnk7/leetcode-sol/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Trnk7/leetcode-sol/tree/master/0695-max-area-of-island) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Trnk7/leetcode-sol/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

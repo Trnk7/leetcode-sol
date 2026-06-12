@@ -2,7 +2,8 @@ class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>>ans;
-        helper(candidates,{},0,target,ans);
+        vector<int>curr;
+        helper(candidates,curr,0,target,ans);
         return ans;
     }
     void helper(vector<int>&cand,vector<int>curr,int st,int target,vector<vector<int>>&ans){

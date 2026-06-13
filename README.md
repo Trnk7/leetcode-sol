@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Trnk7/leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/Trnk7/leetcode-sol/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Trnk7/leetcode-sol/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Trnk7/leetcode-sol/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Trnk7/leetcode-sol/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Trnk7/leetcode-sol/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
@@ -300,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Trnk7/leetcode-sol/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Trnk7/leetcode-sol/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->

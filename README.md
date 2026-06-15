@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/Trnk7/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Trnk7/leetcode-sol/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |

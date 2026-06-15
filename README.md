@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Trnk7/leetcode-sol/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Trnk7/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Trnk7/leetcode-sol/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Trnk7/leetcode-sol/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trnk7/leetcode-sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Trnk7/leetcode-sol/tree/master/0162-find-peak-element) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Trnk7/leetcode-sol/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Trnk7/leetcode-sol/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Trnk7/leetcode-sol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Trnk7/leetcode-sol/tree/master/0338-counting-bits) |
 ## Combinatorics
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Trnk7/leetcode-sol/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Trnk7/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Trnk7/leetcode-sol/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->

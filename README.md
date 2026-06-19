@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Trnk7/leetcode-sol/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Trnk7/leetcode-sol/tree/master/1266-minimum-time-visiting-all-points) |
+| [1732-find-the-highest-altitude](https://github.com/Trnk7/leetcode-sol/tree/master/1732-find-the-highest-altitude) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Trnk7/leetcode-sol/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Trnk7/leetcode-sol/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |

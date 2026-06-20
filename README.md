@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Trnk7/leetcode-sol/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Trnk7/leetcode-sol/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Trnk7/leetcode-sol/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Trnk7/leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/Trnk7/leetcode-sol/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Trnk7/leetcode-sol/tree/master/0733-flood-fill) |

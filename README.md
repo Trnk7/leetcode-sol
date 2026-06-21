@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Trnk7/leetcode-sol/tree/master/1266-minimum-time-visiting-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/Trnk7/leetcode-sol/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Trnk7/leetcode-sol/tree/master/1833-maximum-ice-cream-bars) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Trnk7/leetcode-sol/tree/master/2326-spiral-matrix-iv) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Trnk7/leetcode-sol/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Trnk7/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Trnk7/leetcode-sol/tree/master/0455-assign-cookies) |
+| [1833-maximum-ice-cream-bars](https://github.com/Trnk7/leetcode-sol/tree/master/1833-maximum-ice-cream-bars) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -337,8 +339,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Trnk7/leetcode-sol/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Trnk7/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Trnk7/leetcode-sol/tree/master/0860-lemonade-change) |
+| [1833-maximum-ice-cream-bars](https://github.com/Trnk7/leetcode-sol/tree/master/1833-maximum-ice-cream-bars) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Trnk7/leetcode-sol/tree/master/0547-number-of-provinces) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Trnk7/leetcode-sol/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

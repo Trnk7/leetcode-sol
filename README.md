@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Trnk7/leetcode-sol/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Trnk7/leetcode-sol/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Trnk7/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Trnk7/leetcode-sol/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Trnk7/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Trnk7/leetcode-sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Trnk7/leetcode-sol/tree/master/0079-word-search) |
 | [0389-find-the-difference](https://github.com/Trnk7/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Trnk7/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Trnk7/leetcode-sol/tree/master/0796-rotate-string) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Trnk7/leetcode-sol/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Trnk7/leetcode-sol/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Trnk7/leetcode-sol/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trnk7/leetcode-sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Trnk7/leetcode-sol/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Trnk7/leetcode-sol/tree/master/0164-maximum-gap) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Trnk7/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Trnk7/leetcode-sol/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Trnk7/leetcode-sol/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Trnk7/leetcode-sol/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Trnk7/leetcode-sol/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Trnk7/leetcode-sol/tree/master/0695-max-area-of-island) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Trnk7/leetcode-sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Trnk7/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Trnk7/leetcode-sol/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Trnk7/leetcode-sol/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |

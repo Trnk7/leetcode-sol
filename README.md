@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Trnk7/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Trnk7/leetcode-sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Trnk7/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Trnk7/leetcode-sol/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Trnk7/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Trnk7/leetcode-sol/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Trnk7/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Trnk7/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Trnk7/leetcode-sol/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Trnk7/leetcode-sol/tree/master/0053-maximum-subarray) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Trnk7/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Trnk7/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Trnk7/leetcode-sol/tree/master/0064-minimum-path-sum) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Trnk7/leetcode-sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Trnk7/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Trnk7/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Trnk7/leetcode-sol/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Trnk7/leetcode-sol/tree/master/0079-word-search) |

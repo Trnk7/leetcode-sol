@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Trnk7/leetcode-sol/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Trnk7/leetcode-sol/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Trnk7/leetcode-sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Trnk7/leetcode-sol/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Trnk7/leetcode-sol/tree/master/1833-maximum-ice-cream-bars) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -343,10 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Trnk7/leetcode-sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Trnk7/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Trnk7/leetcode-sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Trnk7/leetcode-sol/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |

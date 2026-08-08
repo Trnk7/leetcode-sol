@@ -1,6 +1,6 @@
 # 💻 LeetCode Solutions
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Trnk7-orange)](https://leetcode.com/Trnk7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-the_trn-orange)](https://leetcode.com/the_trn)
 
 > Consistently solving DSA problems covering Arrays, Trees, DP, Graphs, Backtracking and more.
 

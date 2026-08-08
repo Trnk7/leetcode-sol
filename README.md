@@ -1,4 +1,9 @@
-# leetcode-sol
+# 💻 LeetCode Solutions
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Trnk7-orange)](https://leetcode.com/Trnk7)
+
+> Consistently solving DSA problems covering Arrays, Trees, DP, Graphs, Backtracking and more.
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->

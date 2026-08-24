@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Trnk7/leetcode-sol/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Trnk7/leetcode-sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Trnk7/leetcode-sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Trnk7/leetcode-sol/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Trnk7/leetcode-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |

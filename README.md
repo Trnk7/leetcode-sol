@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Trnk7/leetcode-sol/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Trnk7/leetcode-sol/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/Trnk7/leetcode-sol/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Trnk7/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Trnk7/leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Trnk7/leetcode-sol/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Trnk7/leetcode-sol/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/Trnk7/leetcode-sol/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Trnk7/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Trnk7/leetcode-sol/tree/master/0414-third-maximum-number) |

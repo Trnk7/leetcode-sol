@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Trnk7/leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Trnk7/leetcode-sol/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/Trnk7/leetcode-sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Trnk7/leetcode-sol/tree/master/0204-count-primes) |
 | [0384-shuffle-an-array](https://github.com/Trnk7/leetcode-sol/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/Trnk7/leetcode-sol/tree/master/0398-random-pick-index) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Trnk7/leetcode-sol/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Trnk7/leetcode-sol/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Trnk7/leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Trnk7/leetcode-sol/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Trnk7/leetcode-sol/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Trnk7/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Trnk7/leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trnk7/leetcode-sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Trnk7/leetcode-sol/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Trnk7/leetcode-sol/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/Trnk7/leetcode-sol/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Trnk7/leetcode-sol/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Trnk7/leetcode-sol/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Trnk7/leetcode-sol/tree/master/0204-count-primes) |

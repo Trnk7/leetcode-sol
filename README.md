@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Trnk7/leetcode-sol/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/Trnk7/leetcode-sol/tree/master/2427-number-of-common-factors) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Trnk7/leetcode-sol/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/Trnk7/leetcode-sol/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Trnk7/leetcode-sol/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Trnk7/leetcode-sol/tree/master/3285-find-indices-of-stable-mountains) |
 | [3379-transformed-array](https://github.com/Trnk7/leetcode-sol/tree/master/3379-transformed-array) |
+| [3895-count-digit-appearances](https://github.com/Trnk7/leetcode-sol/tree/master/3895-count-digit-appearances) |
 ## Sorting
 |  |
 | ------- |

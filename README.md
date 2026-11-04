@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Trnk7/leetcode-sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Trnk7/leetcode-sol/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Trnk7/leetcode-sol/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/Trnk7/leetcode-sol/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/Trnk7/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Trnk7/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Trnk7/leetcode-sol/tree/master/0796-rotate-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trnk7/leetcode-sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Trnk7/leetcode-sol/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Trnk7/leetcode-sol/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Trnk7/leetcode-sol/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Trnk7/leetcode-sol/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Trnk7/leetcode-sol/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Trnk7/leetcode-sol/tree/master/0200-number-of-islands) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Trnk7/leetcode-sol/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Trnk7/leetcode-sol/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Trnk7/leetcode-sol/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Trnk7/leetcode-sol/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Trnk7/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Trnk7/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Trnk7/leetcode-sol/tree/master/0414-third-maximum-number) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Trnk7/leetcode-sol/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/Trnk7/leetcode-sol/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Trnk7/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Trnk7/leetcode-sol/tree/master/0860-lemonade-change) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Trnk7/leetcode-sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
